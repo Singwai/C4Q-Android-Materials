@@ -1,0 +1,101 @@
+Useful Links and resource.
+http://commonsware.com/
+http://www.bignerdranch.com/
+
+http://flatironschool.com
+	A school that teach programming
+		Might have course template.
+	Requested for a copy of syllabus  
+
+https://www.dreamspark.com/Default.aspx
+Dreamspark account? Or Buspark account for students?
+
+C4q
+Here is a list of possible topics. 
+==================================
+Data Structures.
+How to process Json and XML.
+
+How to put ads on app?
+	Bing
+	Google Mobile app
+
+Basic HTTP Protocal:
+Use public api
+	Google Map 
+		https://developers.google.com/maps/
+	Youtube:
+	Bing:
+		Search API : http://datamarket.azure.com/dataset/bing/search
+		Translator API : https://msdn.microsoft.com/en-us/library/dd576287.aspx
+		Synonyms API : Free 5000 request : http://go.microsoft.com/fwlink/?LinkId=309646
+		Map : http://www.microsoft.com/maps/choose-your-bing-maps-API.aspx#mapsOperatorBenefits1
+	Facebook
+	Twitter
+	Delievery API:
+		USP http://www.ups.com/content/us/en/tracking/tools/
+		FEDEX
+		DHL
+		USPS https://www.usps.com/business/web-tools-apis/list-of-apis.htm
+	MTA:
+	Weather:
+	Flick:
+
+
+
+Thread managment
+	Asycn task
+	Thread
+
+Form, log in example
+
+
+Build Calculator
+
+Useful Android Feature:
+	Camera
+	Location:
+		Fine location vs Course location
+			Battery consumption
+	Device customization:
+		Wallpaper
+		Ringtone
+	Notification
+	Intent
+		Pending Intent
+	Broadcast 
+
+Basic UI:
+	Button
+	TextView
+	ImageView
+	EditText
+	Checkbox
+	Spinner
+	DatePicker
+	AlertDialog
+	Fragment
+		(Life cycle)
+	Activity
+		(Life cycle)
+
+Design pattern?
+
+How important is the signature file?
+
+How to manage Google Developer Account?
+
+Android I/O
+	Basic database
+	SharePreference
+	SQLite
+
+NEVER re-invent the wheel use existing user library
+	Github.com/wasabeef
+
+Android Testing
+	Automatic testing
+		http://developer.android.com/tools/testing/testing_android.html
+
+
+
